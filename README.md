@@ -44,4 +44,6 @@ You can add and delete books using a popup form interface.
 ---
 
 ## 👨‍💻 Author
-Built as a JavaScript practice project
+**Sridhar V**
+
+GitHub: https://github.com/sridharviswanathan-711
